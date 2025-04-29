@@ -1,0 +1,37 @@
+html{
+
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.icon{
+    text-align: left;
+    background-color: black;
+    color: #fff;
+    padding: 15px;
+}
+.XAY{
+    color: rgb(28, 231, 28);
+}
+.navbar{
+    background-color: black;
+    font-family: Calibri;
+    padding-left: 35px;
+    padding-right: 35px;
+
+}
+.navdiv{
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+}
+.navlinks{
+    background-color: crimson;
+    list-style: none;
+    display: inline-block;
+}
+.navlink{
+    
+}

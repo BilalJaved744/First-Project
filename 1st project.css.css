@@ -1,0 +1,391 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head{
+    display: flex;
+    padding-left: 300px;
+}
+.item-one {
+    padding-left: 350px;
+    padding-top: 25px;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+}
+strong{
+    color: red;
+}
+em{
+    background-color: red;
+    color: #fff;
+}
+.my-img{
+    width: 100%;
+}
+
+.img-text{
+    position: absolute;
+    top: 175px;
+    padding: 80px;
+    padding-left: 400px;
+    color: #fff;
+}
+.image{
+    position: relative;
+    width: 100%;
+}
+.bn-nxt{
+    border-radius: 50%;
+    background-color: #c0b5b5;
+    width: 60px;
+    height: 60px;
+    color: white;
+    position: absolute;
+   top: 350px;
+   right: 10px;
+     cursor: pointer;
+    text-align: center;
+}
+.bn-prev{
+    border-radius: 50%;
+    background-color: #c0b5b5;
+    width: 60px;
+    height: 60px;
+    color: white;
+    position: absolute;
+  top:350px ;
+  left: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+.color{
+    background-color: red;
+    color: black;
+}
+button{
+    border-radius: 5px;
+}
+.task-two{
+display: flex;
+padding: 75px;
+}
+.sec-item-info{
+padding: 15px;
+
+}
+.one{
+    display: flex;
+    padding-left: 60px;
+}
+.two{
+display: flex;
+padding-left: 45px;
+}
+.three{
+display: flex;
+padding-left: 45px;
+}
+.crop{
+    width: 99%;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    position: absolute;
+
+    }
+.part-three{
+  
+    position: relative;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    color: #fff;
+    background-color: rgba(253, 68, 0, 0.829);
+    font-size: 25px;
+}
+.part-info{
+    display: flex;
+}
+.info-one{
+    padding-left: 450px;
+}
+.info-two{
+    padding-left: 50px;
+}
+.info-three{
+    padding-left: 50px;
+}
+.info-four{
+    padding-left: 50px;
+}
+.part-info p {
+    font-size: xx-small;
+}
+h4{
+    color: red;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size: medium;
+  
+}
+.pr-gh p{
+    text-align: center;
+}
+.box{
+    background-color: gainsboro;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h2{
+    text-align: center;
+}
+.box-one-j{
+    background-color: #fff;
+    text-align: center;
+    margin: 5px;
+    width: 350px;
+    height: 300px;
+}
+.box-one-u{
+    background-color: #fff;
+    text-align: center;
+    width: 350px;
+    margin: 5px;
+    height: 300px;
+}
+.box-one-n{
+    background-color: #fff;
+    text-align: center;
+    width: 350px;
+    margin: 5px;
+    height: 300px;
+}
+.box-one-a{
+    background-color: #fff;
+    text-align: center;
+    width: 350px;
+    margin: 5px;
+    height: 300px;
+}
+.box-one-i{
+    background-color: #fff;
+    text-align: center;
+    width: 350px;
+    margin: 5px;
+    height: 300px;
+}
+.box-one-d{
+    background-color: #fff;
+    text-align: center;
+    width: 350px;
+    margin: 5px;
+    height: 300px;
+}
+.WORK{
+   
+    display: flex;
+    height: 400px;
+    font-size: 35px;
+justify-content: space-around;
+}
+.work-one{
+    width: 350px;
+    height: 300px;
+}
+
+.work-two{
+    width: 600px;
+    height: 300px;
+}
+.work-three{
+    width: 350px;
+    height: 300px;
+}
+.w1-img{
+    height: 400px;
+width: 100%;
+object-fit: cover;
+object-position: left;
+}
+.work-two{
+    position: relative;
+}
+.w2-img{
+    position: absolute;
+height: 400px;
+width: 100%;
+object-fit: cover;
+object-position: center;
+}
+.w2-img p{
+    font-size: medium;
+}
+h1{
+    font-size: 20px;
+}
+.work-three{
+position: relative;
+}
+.w3-img{
+    position: absolute;
+height: 400px;
+width: 100%;
+object-fit: cover;
+object-position: right;
+}
+.t-pad{
+    padding: 55px;
+}
+.hp-ph{
+position: relative;
+height: 400px;
+width: 100%;
+top: 300px;
+}
+.work-img{
+    height: 450px;
+    display: flex;
+    justify-content: space-around;
+}
+.work-four{
+   
+    width: 350px;
+    height: 300px;
+}
+.work-five{
+    
+    width: 350px;
+    height: 300px;
+}
+.work-six{
+ 
+    width: 350px;
+    height: 300px;
+}
+.w4-img{
+    object-fit: cover;
+    object-position: left;
+width: 100%;
+height: 300px;
+}
+.w5-img{
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 300px;
+}
+.w6-img{
+    object-fit: cover;
+    object-position: right;
+    width: 100%;
+    height: 300px;
+}
+.sec-crop{
+    width: 98%;
+    padding-top: 50px;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+position: absolute;
+}
+.sec-part-info{
+    text-align: center;
+    background-color: #4427c4d8;
+    width: 99%;
+    height: 380px;
+    top: 50px;
+    padding-top: 20px;
+    position: relative;
+}
+.sm-img{ 
+    width: 100px;
+    border-radius: 50%;
+}
+.star{
+    color: orangered;
+}
+.dot{
+    text-align: center;
+    font-size: 50px;
+}
+.one-8{
+    padding-top: 100px;
+}
+.blg-one{
+display: flex;
+margin-left: 20px;
+}
+.blg-img{
+    width: 100%;
+}
+.blg-two{
+    position: relative;
+    background-color: aliceblue;
+    margin-left: 175px;
+    width: 300px;
+    /* height: 350px; */
+}
+.blg-three{
+    position: relative;
+    background-color: aliceblue;
+    margin-left: 50px;
+    width: 300px;
+    /* height: 350px; */
+}
+
+.blg-four{
+    position: relative;
+    background-color: aliceblue;
+    margin-left: 50px;
+    width: 300px;
+    /* height: 350px; */
+}
+.blg-btn button{
+ background-color: orangered;
+ color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px;
+}
+.blg-info a{
+    text-decoration: underline;
+    color: orangered;
+}
+
+.thrd-crop{
+    width: 98%;
+    padding-top: 50px;
+    height: 320px;
+    object-fit: cover;
+    object-position: center;
+position: absolute;
+}
+
+.thrd-part-info{
+    text-align: center;
+    background-color: #4427c4d8;
+    width: 99%;
+    height: 300px;
+    top: 50px;
+    padding-top: 20px;
+    position: relative;
+}
+.icon{
+    color: white;
+}
+.links{
+    padding-top: 8px;
+}
+.links a{
+    font-size: 20px;
+    color: rgb(248, 248, 248);
+    padding: 2px;
+    text-decoration: underline;
+}
